@@ -1,0 +1,14 @@
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\bin\Debug\netstandard2.0\Week1Challenge.deps.json
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\bin\Debug\netstandard2.0\Week1Challenge.dll
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\bin\Debug\netstandard2.0\ref\Week1Challenge.dll
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\bin\Debug\netstandard2.0\Week1Challenge.pdb
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\Week1Challenge.csprojAssemblyReference.cache
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\Week1Challenge.AssemblyInfoInputs.cache
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\Week1Challenge.AssemblyInfo.cs
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\Week1Challenge.csproj.CoreCompileInputs.cache
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\Week1Challenge.dll
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\ref\Week1Challenge.dll
+C:\Users\charitynyanchera\source\repos\Week1Challenge\Week1Challenge\Week1Challenge\obj\Debug\netstandard2.0\Week1Challenge.pdb

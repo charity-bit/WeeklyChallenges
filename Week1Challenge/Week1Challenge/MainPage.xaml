@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Week1Challenge.MainPage">
+
+    <StackLayout BindingContext="{x:Reference slider}" HorizontalOptions="Start" Padding="5,20,0,0" Spacing="10">
+        <Button Text="Next" HorizontalOptions="Center" Clicked="Button_Clicked"/>
+        <StackLayout Orientation="Horizontal" >    
+           <Label Text="FontSize" />
+        <Label Text="{Binding Value ,StringFormat='{0:F0}'}" />
+        </StackLayout>
+
+        <Slider x:Name="slider" ValueChanged="slider_ValueChanged" Maximum="100"
+                Minimum="1" />
+        <Label Text="You cant blame gravity for falling in love" x:Name="label"
+              />
+
+    </StackLayout>
+
+</ContentPage>

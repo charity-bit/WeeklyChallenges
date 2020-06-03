@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f69hy+5RJ+LZKQ5D83XH1RzwrhAUPImgxkwRQozjleBCgHm3AAhPDb28kNWDOaracHf3OzJGv6Px5barV2Y6mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charitynyanchera\\source\\repos\\Week1Challenge\\Week1Challenge\\Week1Challenge.iOS\\Week1Challenge.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charitynyanchera\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
